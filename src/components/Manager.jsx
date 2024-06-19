@@ -128,7 +128,7 @@ const Manager = () => {
       
       {/* <div className="absolute inset-0 -z-10 h-full w-full bg-white [background:radial-gradient(140%_140%_at_50%_10%,#fff_40%,blue_95%)]"></div>  */}
 
-      <div className="mycontainer min-h-screen flex flex-col justify-center items-center px-5 py-24 relative z-10">
+      <div className="p-3 md:p-0 mycontainer w-10/12 min-h-[88vh]">
         <h1 className="text-4xl font-bold text-center text-white">
           <span className="text-blue-500">&lt;</span>
           Pass
